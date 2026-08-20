@@ -1,20 +1,22 @@
-UPDATED VISUAL VERSION
+ROOT-IMAGE VERSION FOR YOUR CURRENT GITHUB REPOSITORY
 
-This version adds:
-- a large hero visual
-- article thumbnail graphics
-- visual banners inside article pages
-- richer cards, gradients, hover effects, and footer
-- responsive design for desktop and mobile
+Your SVG image files are already uploaded at the repository root.
+This version updates the HTML so it looks for the images there.
 
-TO UPDATE YOUR EXISTING GITHUB WEBSITE:
-1. Unzip this folder.
-2. Open your GitHub repository: edsel-it-blog.
-3. Delete or replace the old index.html, blog.html, about.html, styles.css, script.js, and articles folder.
-4. Upload all files from this new folder, INCLUDING the new assets folder.
-5. Commit the changes.
-6. GitHub Pages will redeploy automatically.
-7. Refresh your site after a few minutes.
+UPLOAD/REPLACE THESE FILES:
+- index.html
+- blog.html
+- about.html
+- articles/ai-process.html
+- articles/data-analytics.html
+- articles/erp.html
 
-IMPORTANT:
-The assets folder must be uploaded, otherwise the pictures will not appear.
+You do NOT need an assets folder for this version.
+
+Keep these root image files already in GitHub:
+- analytics-visual.svg
+- process-visual.svg
+- erp-visual.svg
+- hero-tech-workspace.svg
+
+After committing, wait for GitHub Pages to redeploy and hard-refresh with Ctrl+F5.
