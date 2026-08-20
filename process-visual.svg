@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1120"/><stop offset="1" stop-color="#172554"/></linearGradient></defs>
+<rect width="1000" height="560" fill="url(#b)"/>
+<g stroke="#60a5fa" stroke-width="8" fill="none"><line x1="215" y1="280" x2="365" y2="280"/><line x1="535" y1="280" x2="685" y2="280"/><line x1="455" y1="200" x2="455" y2="120"/></g>
+<polygon points="340,280 365,265 365,295" fill="#60a5fa"/><polygon points="660,280 685,265 685,295" fill="#60a5fa"/><polygon points="455,145 440,120 470,120" fill="#60a5fa"/>
+<rect x="90" y="220" width="130" height="120" rx="22" fill="#1d4ed8"/><rect x="365" y="220" width="170" height="120" rx="22" fill="#2563eb"/><rect x="685" y="220" width="160" height="120" rx="22" fill="#0ea5e9"/><circle cx="455" cy="85" r="48" fill="#5eead4"/>
+<text x="500" y="455" text-anchor="middle" fill="#e2e8f0" font-family="Arial" font-size="50" font-weight="700">PROCESS THINKING</text>
+</svg>

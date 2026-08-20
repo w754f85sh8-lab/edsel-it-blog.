@@ -1,29 +1,20 @@
-HOW TO USE THIS WEBSITE
+UPDATED VISUAL VERSION
 
-1. Unzip the folder.
-2. Double-click index.html.
-3. It will open in your browser.
+This version adds:
+- a large hero visual
+- article thumbnail graphics
+- visual banners inside article pages
+- richer cards, gradients, hover effects, and footer
+- responsive design for desktop and mobile
 
-HOW TO PUBLISH WITH GITHUB PAGES
-1. Create/sign in to GitHub.
-2. Create a new PUBLIC repository, e.g. edsel-it-blog.
-3. Upload all files plus the articles folder.
-4. Open Settings > Pages.
-5. Choose Deploy from a branch.
-6. Select main and /(root), then Save.
-7. Wait a few minutes for your public URL.
+TO UPDATE YOUR EXISTING GITHUB WEBSITE:
+1. Unzip this folder.
+2. Open your GitHub repository: edsel-it-blog.
+3. Delete or replace the old index.html, blog.html, about.html, styles.css, script.js, and articles folder.
+4. Upload all files from this new folder, INCLUDING the new assets folder.
+5. Commit the changes.
+6. GitHub Pages will redeploy automatically.
+7. Refresh your site after a few minutes.
 
-HOW TO PUBLISH WITH NETLIFY
-1. Create/sign in to Netlify.
-2. Choose Add new site > Deploy manually.
-3. Drag the unzipped website folder into Netlify.
-4. Netlify creates a public URL.
-5. Test the URL while logged out before submitting it.
-
-FILES
-index.html - homepage
-blog.html - blog page
-about.html - project/about page
-styles.css - design
-script.js - interactions
-articles/ - individual blog articles
+IMPORTANT:
+The assets folder must be uploaded, otherwise the pictures will not appear.

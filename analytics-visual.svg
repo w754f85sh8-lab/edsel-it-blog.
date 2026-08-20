@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#0c4a6e"/></linearGradient></defs>
+<rect width="1000" height="560" fill="url(#a)"/><circle cx="850" cy="80" r="180" fill="#0ea5e9" opacity=".18"/>
+<rect x="90" y="80" width="820" height="400" rx="26" fill="#0b1220" stroke="#38bdf8" stroke-opacity=".25"/>
+<g fill="#334155"><rect x="125" y="120" width="150" height="18" rx="9"/><rect x="125" y="160" width="290" height="10" rx="5"/></g>
+<g><rect x="150" y="310" width="70" height="110" rx="10" fill="#2563eb"/><rect x="250" y="250" width="70" height="170" rx="10" fill="#3b82f6"/><rect x="350" y="205" width="70" height="215" rx="10" fill="#60a5fa"/><rect x="450" y="145" width="70" height="275" rx="10" fill="#5eead4"/></g>
+<polyline points="585,375 650,320 700,340 760,220 835,245" fill="none" stroke="#f8fafc" stroke-width="7"/>
+<text x="600" y="150" font-family="Arial" font-size="46" font-weight="700" fill="#e2e8f0">DATA → DECISIONS</text>
+</svg>

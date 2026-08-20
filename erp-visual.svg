@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#164e63"/></linearGradient></defs>
+<rect width="1000" height="560" fill="url(#c)"/>
+<g stroke="#38bdf8" stroke-opacity=".55" stroke-width="5">
+<line x1="500" y1="280" x2="220" y2="145"/><line x1="500" y1="280" x2="790" y2="150"/><line x1="500" y1="280" x2="200" y2="420"/><line x1="500" y1="280" x2="810" y2="420"/>
+</g>
+<circle cx="500" cy="280" r="125" fill="#0f172a" stroke="#5eead4" stroke-width="8"/><text x="500" y="305" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="88" font-weight="800">ERP</text>
+<g fill="#1d4ed8" stroke="#93c5fd" stroke-width="3"><circle cx="220" cy="145" r="62"/><circle cx="790" cy="150" r="62"/><circle cx="200" cy="420" r="62"/><circle cx="810" cy="420" r="62"/></g>
+<text x="500" y="520" text-anchor="middle" fill="#dbeafe" font-family="Arial" font-size="42" font-weight="700">CONNECTED BUSINESS SYSTEMS</text>
+</svg>
